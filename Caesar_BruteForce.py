@@ -14,5 +14,4 @@ def Caesar(mes,shift):
 
 mes="Caesar Text to be manipulated"
 for i in range(1,27):
-    
     print(Caesar(mes,i), end='\n')
